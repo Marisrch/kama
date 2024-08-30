@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mFd"
+        android:icon="@drawable/baseline_message"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/mEntre"
+        android:icon="@drawable/baseline_signal"
+        android:title="Entrega" />
+    <item
+        android:id="@+id/mShop"
+        android:icon="@drawable/baseline_shop"
+        android:title="Comprar" />
+    <item
+        android:id="@+id/mpPerfil"
+        android:icon="@drawable/baseline_people"
+        android:title="Perfil" />
+
+</menu>
